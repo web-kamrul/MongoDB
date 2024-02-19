@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "65a2c4b1f1ae62750f402665"
+  },
+  "userID": {
+    "$oid": "65749b6036b023a8b6c5ea73"
+  },
+  "createdAt": {
+    "$date": "2024-01-13T17:13:21.413Z"
+  },
+  "cus_add": "Dhaka0",
+  "cus_city": "Dhaka",
+  "cus_country": "Dhaka",
+  "cus_fax": "Dhaka",
+  "cus_name": "Dhakahhhhhh",
+  "cus_phone": "Dhaka",
+  "cus_postcode": "Dhaka",
+  "cus_state": "Dhaka",
+  "ship_add": "Dhaka",
+  "ship_city": "Dhaka",
+  "ship_country": "Dhaka",
+  "ship_name": "Dhaka",
+  "ship_phone": "Dhaka",
+  "ship_postcode": "Dhaka",
+  "ship_state": "Dhaka",
+  "updatedAt": {
+    "$date": "2024-01-28T19:43:18.057Z"
+  }
+}]
